@@ -1,0 +1,183 @@
+{
+    "data": [
+        {"ourQualities" :[
+  {
+    "id": 1,
+    "image": "./quality_food.svg",
+    "title": "QUALITY FOOD",
+    "description": "Crafted with passion and premium ingredients, every bite is a journey into flavor perfection."
+  },
+  {
+    "id": 2,
+    "image": "./super_taste.svg",
+    "title": "SUPER TASTE",
+    "description": "An explosion of unforgettable flavors that dance on your tongue and warm your soul."
+  },
+  {
+    "id": 3,
+    "image": "./fast_delivery.svg",
+    "title": "FAST DELIVERY",
+    "description": "Lightning-fast delivery so you enjoy your food while it's still hot, fresh, and delicious."
+  }
+        ],
+        "dishes":[
+  {
+    "id": 1,
+    "image": "./dinner1.jpeg",
+    "title": "ROASTED LAMB RUMP",
+    "category": "Dinner",
+    "description": "Tender lamb rump, slow-roasted to perfection and served with rosemary jus and seasonal vegetables."
+  },
+  {
+    "id": 2,
+    "image": "./dinner2.png",
+    "title": "CITRUS CURED SALMON",
+    "category": "Dinner",
+    "description": "Fresh Atlantic salmon delicately cured with citrus zest, served chilled with herb salad and dill crème."
+  },
+  {
+    "id": 3,
+    "image": "./breakfast1.png",
+    "title": "PAN SEARED SEA BASS",
+    "category": "Breakfast",
+    "description": "Crispy sea bass fillet pan-seared with lemon butter and served alongside grilled asparagus and poached eggs."
+  },
+  {
+    "id": 4,
+    "image": "./dinner3.png",
+    "title": "STUFFED STRAWBERRY",
+    "category": "Dinner",
+    "description": "Sweet strawberries filled with mascarpone cream and drizzled with dark chocolate glaze — a perfect finish."
+  },
+  {
+    "id": 5,
+    "image": "./lunch1.png",
+    "title": "BEEF BURGER MEAL",
+    "category": "Lunch",
+    "description": "Juicy grilled beef patty stacked with cheddar, lettuce, and tomato, served with fries and house-made sauce."
+  },
+  {
+    "id": 6,
+    "image": "./dinner4.png",
+    "title": "MUSSELS SOUP",
+    "category": "Dinner",
+    "description": "A rich, aromatic broth filled with fresh mussels, garlic, herbs, and a touch of white wine."
+  },
+  {
+    "id": 7,
+    "image": "./dinner5.png",
+    "title": "ITALIAN SPAGHETTI",
+    "category": "Dinner",
+    "description": "Classic spaghetti tossed in a robust tomato-basil sauce with shaved parmesan and olive oil drizzle."
+  },
+  {
+    "id": 8,
+    "image": "./dinner6.png",
+    "title": "GRILLED FISH",
+    "category": "Dinner",
+    "description": "Succulent fillet of fish grilled over open flame, served with lemon wedges and herbed rice pilaf."
+  }
+]
+,
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "JOHNATHAN TYLER",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "WADE WARREN",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "JHON DOE",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "ALEX COAL",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
