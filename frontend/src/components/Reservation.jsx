@@ -30,7 +30,7 @@ const Reservation = () => {
 
     try {
       const { data } = await axios.post(
-        'http://localhost:3000/api/v1/reservation/send',
+        'https://foodorder-1-6zj6.onrender.com/api/v1/reservation/send',
         formData,
         {
           headers: {
