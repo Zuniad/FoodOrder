@@ -11,7 +11,7 @@ const Success = () => {
 
   const handleDelete = async () => {
     try {
-      await axios.delete(`http://localhost:3000/api/v1/reservation/delete/${reservation._id}`);
+      await axios.delete(`https://foodorder-1-6zj6.onrender.com/api/v1/reservation/delete/${reservation._id}`);
       toast.success('Reservation deleted successfully');
       navigate('/');
     } catch (error) {
