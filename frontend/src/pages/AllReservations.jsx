@@ -12,7 +12,7 @@ const AllReservations = () => {
   useEffect(() => {
     const fetchReservations = async () => {
       try {
-        const res = await axios.get('http://localhost:3000/api/v1/reservation/get');
+        const res = await axios.get('https://foodorder-1-6zj6.onrender.com/api/v1/reservation/get');
         console.log("Fetched:", res.data);
         setReservations(res.data.data || []);
       } catch (err) {
